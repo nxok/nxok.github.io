@@ -1,0 +1,13 @@
+# 依赖库
+node_modules/
+
+# VitePress 编译输出
+.vitepress/dist
+.vitepress/cache
+
+# 操作系统临时文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
