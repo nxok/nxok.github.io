@@ -4,6 +4,7 @@
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+bash <(wget -qO- bash.spiritlhl.net/ecs)
 ```
 
 
